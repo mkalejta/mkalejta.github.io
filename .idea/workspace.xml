@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="670f7da2-a18b-4abe-9be2-e3cd8cde9516" name="Changes" comment="table changes2" />
+    <list default="true" id="670f7da2-a18b-4abe-9be2-e3cd8cde9516" name="Changes" comment="table changes3">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -138,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667822183670</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="table changes3">
+      <created>1667822197395</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1667822197395</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,6 +179,7 @@
     <MESSAGE value="background color changes" />
     <MESSAGE value="table changes1" />
     <MESSAGE value="table changes2" />
-    <option name="LAST_COMMIT_MESSAGE" value="table changes2" />
+    <MESSAGE value="table changes3" />
+    <option name="LAST_COMMIT_MESSAGE" value="table changes3" />
   </component>
 </project>
