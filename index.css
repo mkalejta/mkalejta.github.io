@@ -1,8 +1,6 @@
-body {
-  background-color: lightgreen;
+table, th, td {
+  border: 1px solid;
 }
-
-h1 {
-  color: white;
-  margin-left: 20px;
+table {
+ width: 50%
 }
