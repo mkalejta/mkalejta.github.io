@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="670f7da2-a18b-4abe-9be2-e3cd8cde9516" name="Changes" comment="Adding image">
-      <change afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="670f7da2-a18b-4abe-9be2-e3cd8cde9516" name="Changes" comment="background color changes">
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667819100000</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="background color changes">
+      <created>1667820100982</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667820100982</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,6 +126,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Link changes and 1st paragaph" />
     <MESSAGE value="Adding image" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding image" />
+    <MESSAGE value="background color changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="background color changes" />
   </component>
 </project>
