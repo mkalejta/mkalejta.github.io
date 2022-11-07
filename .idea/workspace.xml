@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="670f7da2-a18b-4abe-9be2-e3cd8cde9516" name="Changes" comment="background color changes">
+    <list default="true" id="670f7da2-a18b-4abe-9be2-e3cd8cde9516" name="Changes" comment="table changes1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667820197933</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="table changes1">
+      <created>1667820361923</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667820361923</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,6 +142,7 @@
     <MESSAGE value="Link changes and 1st paragaph" />
     <MESSAGE value="Adding image" />
     <MESSAGE value="background color changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="background color changes" />
+    <MESSAGE value="table changes1" />
+    <option name="LAST_COMMIT_MESSAGE" value="table changes1" />
   </component>
 </project>
